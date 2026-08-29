@@ -1,3 +1,4 @@
+// https://github.com/manuo-git/heuristics/blob/main/beamsearch.rs
 use proconio::input;
 use std::cmp::Ordering;
 
